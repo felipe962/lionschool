@@ -1,0 +1,32 @@
+ <resources>
+        <string name="app_name">Lion School</string>
+        <string name="imagem">Lion School Image</string>
+        <string name="school_nome">School</string>
+        <string name="lion_nome">Lion</string>
+        <string name="subtitle_inicial_screen">Find your favorite course</string>
+        <string name="description">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
+        <string name="GET_butom">Get Started</string>
+        <string name="youtube">Youtube Icon</string>
+        <string name="twitter">Twitter icon</string>
+        <string name="facebook">Facebook Icon</string>
+        <string name="instagram">Instagram Icon</string>
+        <string name="Ds">DS</string>
+        <string name="RDS">RDS</string>
+        <string name="nome_ele_curso">ELE</string>
+        <string name="desenvolvimento_de_sistemas">Desenvolvimento de Sistemas</string>
+        <string name="redes">Redes de Computadores</string>
+        <string name="RdS">Learn to design communication networks.</string>
+        <string name="eletronica">Eletroeletrônica</string>
+        <string name="description_course_ds">Learn to develop web and mobile applications.</string>
+        <string name="description_course_ele">Learn to design communication networks.</string>
+        <string name="semesters">3 semestres</string>
+        <string name="label_courses">Find your course</string>
+        <string name="courses">Courses</string>
+        <string name="find_a_student">Find a student</string>
+        <string name="todos_students">Todos</string>
+        <string name="estudantes_cursando">Cursando</string>
+        <string name="estudantes_finalizados">Finalizado</string>
+        <string name="student_descripiton">01 - Papi Games</string>
+        <string name="lista_estudante">Students List</string>
+        <string name="student">yuri goti campos</string>
+    </resources>
